@@ -28,7 +28,6 @@ src/build_data/windows/msvc_uwp/Debug
 src/build_data/windows/msvc_uwp/Release
 src/build_data/windows/msvc_uwp/x64
 src/codesign_identity
-src/daemonlib
 src/dist
 src/oacr_tmp
 src/tests/*_test

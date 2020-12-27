@@ -1,0 +1,3 @@
+[submodule "src/daemonlib"]
+	path = src/daemonlib
+	url = https://github.com/Tinkerforge/daemonlib.git
